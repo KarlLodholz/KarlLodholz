@@ -1,10 +1,10 @@
 ### Welcome to Karl's Page of Odd-Projects
 
 #### 🔭 I’m currently working on: 
-###### project Euler problems     day-trading bot algorithim     image generation     image manipulation     various games
-<img alt="pe_check" src="https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg" width=64 align="left"/>
-<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=64 align="left"/>
-
+**project Euler problems     day-trading bot algorithim     image generation     image manipulation     various games**
+<img alt="pe_check" src="https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg" width=150 align="left"/>
+<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=150 align="left"/>
+<img alt="ppm_gen" src="https://i.imgur.com/VJIs61b.jpg" width=150 align="left"/>
 
 - 🌱 I’m currently learning about translators and 
 - 👯 I’m looking to collaborate on ...
