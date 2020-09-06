@@ -1,17 +1,18 @@
 ### Welcome to Karl's Page of Odd-Projects
 
 #### 🔭 I’m currently working on: 
-project Euler problems | day-trading bot algorithim | image generation | image manipulation
------------------------|----------------------------|------------------|-------------------
+project Euler problems | day-trading bot | image generation | image manipulation
+-----------------------|-----------------|------------------|-------------------
 <img alt="pe_check" src="https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg" width=150 align="center"/> |<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=150 align="center"/> | <img alt="ppm_gen" src="https://i.imgur.com/VJIs61b.jpg" width=150 align="center"/> | <img alt=pix_convert src="https://i.imgur.com/UO2rEfh.jpeg" width=150 align="center"/>
 
 #### 🌱 I’m currently learning about: 
-* interpreters    (an interesting class I am taking atm)
-* net-code        (implementing multiplayer into games)
+* interpreters    (an interesting class I am taking)
+* unreal engine   (working a mobile game)
 * music creation  (messing around in LMMS)
+* net-code        (implementing multiplayer into games)
 
 #### 👯 I’m looking to collaborate on various programming sessions.  
- **2020 Covid-19 Self-Hackathon - 9/11-12/2020** some friends and I will make something for fun
+* **2020 Covid-19 Self-Hackathon - 9/11-12/2020** (some friends and I want to make something for fun)
 #### 📫 How to reach me: **karllodholz@gmail.com**
 #### 😄 Pronouns: he | him | his | himself
 #### ⚡ Fun fact: I love to cook and find great food with friends in my free time
