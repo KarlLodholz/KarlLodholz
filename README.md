@@ -1,10 +1,5 @@
 ### Welcome to Karl's Page of Odd-Projects
 
-<!--
-**KarlLodholz/KarlLodholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## 🔭 I’m currently working on: 
 # project Euler problems     day-trading bot algorithim     picture generation and manipulation     various games
 https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg
@@ -15,4 +10,3 @@ https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
