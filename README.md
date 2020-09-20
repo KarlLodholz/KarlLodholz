@@ -6,10 +6,11 @@ project Euler problems | day-trading bot | image generation | image manipulation
 <img alt="pe_check" src="https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg" width=150 align="center"/> |<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=150 align="center"/> | <img alt="ppm_gen" src="https://i.imgur.com/VJIs61b.jpg" width=150 align="center"/> | <img alt=pix_convert src="https://i.imgur.com/UO2rEfh.jpeg" width=150 align="center"/>
 
 #### 🌱 I’m currently learning about: 
-* interpreters    (an interesting class I am taking)
-* unreal engine   (working a mobile game)
-* music creation  (messing around in LMMS)
-* net-code        (implementing multiplayer into games)
+* Translators     (An Interesting class I am taking)
+* Multithreading  (Learning on the side and in class)
+* Unreal Engine   (Working a mobile game)
+* Music Creation  (Messing around in LMMS)
+* Cooking         (Gotta eat, don't I?)
 
 #### 👯 I’m looking to collaborate on various programming sessions.  
 * **2020 Covid-19 Self-Hackathon - 9/11-12/2020** (some friends and I want to make something for fun)
