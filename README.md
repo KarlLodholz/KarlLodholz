@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working on: 
 project Euler problems | day-trading bot | image generation | image manipulation
 -----------------------|-----------------|------------------|-------------------
-<img alt="pe_check" src="https://www.coastalvectors.com/blog/wp-content/uploads/2015/06/check.jpg" width=150 align="center"/> |<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=150 align="center"/> | <img alt="ppm_gen" src="https://i.imgur.com/VJIs61b.jpg" width=150 align="center"/> | <img alt=pix_convert src="https://i.imgur.com/UO2rEfh.jpeg" width=150 align="center"/>
+<img alt="Euler" src="https://pbs.twimg.com/profile_images/1586710859/Leonhard_Euler.jpg" width=150 align="center"/> |<img alt="stonks" src="https://m.media-amazon.com/images/I/81l-+mFDVzL._SS500_.jpg" width=150 align="center"/> | <img alt="ppm_gen" src="https://i.imgur.com/VJIs61b.jpg" width=150 align="center"/> | <img alt=pix_convert src="https://i.imgur.com/UO2rEfh.jpeg" width=150 align="center"/>
 
 #### 🌱 I’m currently learning about: 
 * Translators     (An Interesting class I am taking)
